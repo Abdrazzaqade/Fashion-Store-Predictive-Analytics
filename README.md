@@ -3,8 +3,10 @@ Predictive analytics of the average rating of some products in the fashion store
 Skills demonstrated were data manipulation and transfromation using pandas and scikit library, machine learning and predictive analytics using the scikit library.
 
 
-Assumptions and objectives
+**Assumptions and objectives**
+
 After observing the profile of the dataset, the following assumptions and questions arose:
+
 **Assumption:**
 
 1.	The dataset is for a retail fashion company. It contains a list of all the brands, product id, the price, the ratings of the product and the number of times the products were rated along with other variables such as fabric type, pattern, and neck style.
